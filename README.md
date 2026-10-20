@@ -1,31 +1,208 @@
-# 💫 About Me:
-🔭 I’m currently working on Web Development.<br>👯 I’m looking to collaborate on Projects based on JAVA & MERN Stack.<br>🌱 I’m currently learning JAVA & Full-Stack Development.
+ <div align="center">
 
+# Hey, I'm Aaryan Paliwal 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aaryan-paliwal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aapaliwal.work@gmail.com) 
+### Software Engineering · Backend Systems · Applied AI/ML
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aaryan-paliwal&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aaryan-paliwal&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan-paliwal&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I build software that connects **reliable backend engineering** with **useful AI capabilities** — from LLM infrastructure and evidence-grounded document systems to multimodal machine learning applications.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aaryan-paliwal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![GitHub](https://img.shields.io/badge/GitHub-aaryan--paliwal-181717?style=for-the-badge&logo=github)](https://github.com/aaryan-paliwal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aaryan-paliwal)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aapaliwal2154@gmail.com)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aaryan-paliwal&limit=5&theme=merko&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aaryan-paliwal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/aapaliwal.work@gmail.com) 
+## 👨‍💻 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm an Information Technology Engineering student at **Shri G. S. Institute of Technology and Science (SGSITS), Indore**, graduating in 2027.
+
+My work sits at the intersection of **backend engineering, AI application development, and machine learning research**. I enjoy turning ideas into working systems: designing APIs and data models, integrating AI models, evaluating system behavior, and building interfaces that make the result usable.
+
+- 🧩 **Backend & Systems:** REST APIs, service design, authentication, databases, caching, and containerized applications.
+- 🤖 **Applied AI:** LLM integrations, AI-powered workflows, evidence-grounded answers, and generative content tools.
+- 🧪 **ML & Research:** Model-serving workflows, evaluation pipelines, and adversarial robustness experiments.
+- 🛠️ **Engineering Mindset:** Build iteratively, test assumptions, document trade-offs, and prefer evidence over unsupported claims.
+
+**I'm interested in Software Engineer, Backend Engineer, and Applied AI/ML Engineer opportunities.**
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ [FlowOps HQ](https://github.com/aaryan-paliwal/FlowOps-HQ)
+
+**Enterprise AI Gateway & Control Plane**
+
+A unified layer for routing LLM requests and managing AI infrastructure.
+
+- Multi-provider routing and fallback workflows
+- API-key management, authentication, and access control
+- Redis-backed semantic caching and request analytics
+- Docker-based service orchestration
+
+**Tech:** Node.js · Express · React · PostgreSQL · Redis · Prisma · Docker
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [ClauseTrace](https://github.com/aaryan-paliwal/clausetrace)
+
+**Evidence-Grounded Rulebook QA**
+
+A document question-answering system designed to distinguish supported answers, conflicting rules, and questions not covered by the source corpus.
+
+- `ANSWERABLE`, `CONTRADICTION`, and `NOT_COVERED` outcomes
+- Answers trace back to verbatim source citations
+- Includes a 60-case evaluation benchmark
+- Fail-safe behavior when evidence is insufficient
+
+**Tech:** Python · FastAPI · SQLite · NumPy · Gemini/OpenAI APIs · React
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✨ [Sociora](https://github.com/aaryan-paliwal/sociora)
+
+**AI Social Content Studio**
+
+Transforms a campaign brief into a coordinated set of social-media content.
+
+- Captions, hooks, headlines, and hashtags
+- Reel concepts, scripts, storyboards, and carousels
+- AI-assisted visual direction and poster generation
+- Campaign persistence and dashboard workflows
+
+**Tech:** Next.js · TypeScript · Tailwind CSS · Supabase · Google Gemini
+
+</td>
+<td width="50%" valign="top">
+
+### 🧬 [NeuralHub](https://github.com/aaryan-paliwal/NeuralHub-Unified-Multi-Modal-AI-Platform)
+
+**Multi-Modal AI Research & Deployment**
+
+A research and deployment platform for comparing ML approaches across multiple data types and serving selected models through a unified web application.
+
+- Text sentiment analysis
+- Medical image classification
+- Audio fall detection
+- Video crowd-anomaly detection
+- Financial time-series prediction
+
+**Tech:** Python · FastAPI · React · TypeScript · Tailwind CSS
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 [PromptDiary](https://github.com/Suyasha7/PromptDiary)
+
+**AI Prompt Engineering & Learning Platform**
+
+A learning and practice ecosystem for prompt engineering and LLM workflows, developed collaboratively.
+
+- Prompt-learning content and practice workflows
+- Interactive playground and AI integrations
+- Backend REST APIs and relational data workflows
+
+**Tech:** Next.js · TypeScript · FastAPI · PostgreSQL · Supabase
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [Adversarial Robustness Evaluation](https://zenodo.org/records/20681025)
+
+**Research Framework for CNN Classifiers**
+
+A framework for studying how adversarial examples affect model predictions.
+
+- FGSM, PGD, C&W, and DeepFool attack implementations
+- Automated experiments across perturbation budgets
+- Asynchronous evaluation and experiment tracking
+
+**Tech:** Python · PyTorch · Redis · Celery · React
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Backend & Databases
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### AI, ML & Tools
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Achievements & Recognition
+
+- 🥇 **Google Big Code '26:** Advanced to the penultimate round, among the reported top 1,500 participants.
+- 🚀 **OpenAI Hackathon:** FlowOps HQ received a score of **88/100**.
+- 📄 **Research Publication:** Authored an adversarial robustness preprint archived on [Zenodo](https://zenodo.org/records/20681025).
+- ☁️ **Oracle OCI AI Foundations Associate:** Earned the 2025 certification.
+- 🌱 **Open Source:** Participated in GirlScript Summer of Code (GSSoC '25).
+
+---
+
+## 📌 What I'm Focused On
+
+- Building robust backend services and maintainable APIs.
+- Designing useful LLM-powered workflows with clear failure handling.
+- Evaluating AI systems with testable criteria rather than relying on demos alone.
+- Improving software quality through testing, documentation, and iterative development.
+- Growing as a software engineer through real-world projects and collaboration.
+
+---
+
+## 🤝 Let's Connect
+
+I'm happy to connect about **backend engineering, applied AI/ML, developer tools, research projects, and open-source collaboration**.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Projects-181717?style=for-the-badge&logo=github)](https://github.com/aaryan-paliwal?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aaryan-paliwal)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aapaliwal2154@gmail.com)
+
+*Build thoughtfully. Measure honestly. Keep learning.*
+
+</div>
