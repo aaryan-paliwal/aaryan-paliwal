@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.gitskins.com/api/readme-reference/hero?username=aaryan-paliwal&theme=neon&role=Backend%20or%20Systems%20or%20Applied%20or%20AI/MLFrontend&location=India&v=readme-reference-2" width="100%" alt="Aaryan Paliwal profile banner" />
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=aaryan-paliwal&theme=neon&role=Backend%20Systems%20Applied%20AI/ML&location=India&v=readme-reference-2" width="100%" alt="Aaryan Paliwal profile banner" />
 
 <br/>
 
